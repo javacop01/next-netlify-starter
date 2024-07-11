@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Shubham Mehta app!" />
         <p className="description">
           This is AI for fun <code>pages/index.js</code>
         </p>
