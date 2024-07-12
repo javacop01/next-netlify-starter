@@ -8,7 +8,7 @@ export default function Home() {
       <head>
           <meta charset="UTF-8"/>
           <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-          <title>Startup Name</title>
+          <title>AI For Fun</title>
           <link rel="stylesheet" href="styles/globals.css"></link>
       </head>
       <body>
